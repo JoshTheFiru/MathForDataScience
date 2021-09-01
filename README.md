@@ -1,12 +1,12 @@
 ## MathForDataScience
 
-Este repositorio tiene el objeto de reunir distintos recursos de matemáticas para #DataScience encontrados y clasificados por disciplinas y aplicaciones.
+Este repositorio tiene el objeto de reunir distintos recursos de matemáticas para *#DataScience* encontrados y clasificados por disciplinas y aplicaciones.
 Usado como método para facilitar el acceso a su lectura a través de mi Discord de universidad, si puede servirte de ayuda o quieres aportar algún recurso, no dudes en usarlo.
 
 Si quieres unirte a mi Discord: https://discord.gg/JmuG6xJXQM
 
 ### Algebra Lineal
-Usada en #MachineLearning para entender cómo funcionan los algoritmos. Vectores / Matrices / Cálculo Tensorial.
+Usada en *#MachineLearning* para entender cómo funcionan los algoritmos. Vectores / Matrices / Cálculo Tensorial.
 1. https://www.khanacademy.org/math/linear-algebra (para principiantes)
 2. http://codingthematrix.com/ (+ Libro)
 3. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (Serie YouTube sobre Álgebra Lineal de 3Blue1Brown)
